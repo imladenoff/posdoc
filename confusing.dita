@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="confusing">
+  <title>Confusing parts of speech</title>
+
+  <conbody>
+    <p>This section discusses parts of speech that are easily confused and
+    gives guidelines on how to tag such cases.</p>
+
+    <section><title>CC or DT</title><p>When they are the first members of the
+    double conjunctions both...and, either...or and neither...nor, both,
+    either and neither are tagged as coordinating conjunctions (CC), not as
+    determiners (DT).</p><codeblock>Either/DT child could sing.</codeblock><p>But:</p><codeblock>Either/CC a boy could sing or/CC a girl could dance.
+Either/CC a boy or/CC a girl could sing.
+Either/CC a boy or/CC girl could sing.</codeblock><p>Be aware that either or
+    neither can sometimes function as determiners (DT) even in the presence of
+    or or nor.</p><codeblock>Either/DT boy or/CC girl could sing.</codeblock></section>
+
+    <section><title>CD or JJ</title><p>Number-number combinations should be
+    tagged as adjectives (JJ) if they have the same distribution as
+    adjectives.</p><codeblock>a 50-3/JJ victory; cf. a handy/JJ victory</codeblock><p>Hyphenated
+    fractions one-half, three-fourths, seven-eighths, one-and-a-half,
+    seven-and-three-eighths should be tagged as adjectives (JJ) when they are
+    prenominal modifiers, but as adverbs (RB) if they could be replaced by
+    double or twice.</p><codeblock>one-half/J J cup; 	cf. a full/JJ cup
+one-half/RB the amount; 	cf. twice/RB the amount; double/RB the amount </codeblock></section>
+  </conbody>
+</concept>

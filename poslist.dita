@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="poslist">
+  <title>List of parts of speech with corresponding tag</title>
+
+  <conbody>
+    <section><title>Adjective—JJ</title><p>Hyphenated compounds that are used
+    as modifiers are tagged as adjectives (JJ).</p><codeblock>happy-go-lucky/JJ
+one-of-a-kind/JJ
+run-of-the-mill/JJ</codeblock><p>Ordinal numbers are tagged as adjectives
+    (JJ), as are compounds of the form <i>n-th X-est</i>, like
+    <i>fourth-largest</i>.</p></section>
+
+    <section><title>Adjective, comparative—JJR</title><p>Adjectives with the
+    comparative ending <i>-er</i> and a comparative meaning are tagged JJR.
+    <i>More</i> and <i>less</i> when used as adjectives, as in <i>more or less
+    mail</i>, are also tagged as JJR. <i>More</i> and <i>less</i> can also be
+    tagged as JJR when they occur by themselves; see the entries for these
+    words in Section 5. Adjectives with a comparative meaning but without the
+    comparative ending <i>-er</i>, like <i>superior</i>, should simply be
+    tagged as JJ. Adjectives with the ending -er but without a strictly
+    comparative meaning ("more X"), like <i>further</i> in <i>further
+    details</i>, should also simply be tagged as JJ. </p></section>
+
+    <section><title>Adjective, superlative—JJS</title><p>JJS Adjectives with
+    the superlative ending <i>-est</i> (as well as <i>worst</i>) are tagged as
+    JJS. <i>Most</i> and <i>least</i> when used as adjectives, as in <i>the
+    most or the least mail</i>, are also tagged as JJS. <i>Most</i> and
+    <i>least</i> can also be tagged as JJS when they occur by themselves; see
+    the entries for these words in Section 5. Adjectives with a superlative
+    meaning but without the superlative ending <i>-est</i>, like <i>first</i>,
+    <i>last</i> or <i>unsurpassed</i>, should simply be tagged as JJ.
+    </p></section>
+  </conbody>
+</concept>

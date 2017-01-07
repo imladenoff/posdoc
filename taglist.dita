@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="taglist">
+  <title>List of tags with corresponding part of speech</title>
+
+  <conbody>
+    <p>This section contains a list of tags in alphabetical order and the
+    parts of speech corresponding to them.</p>
+
+    <ul>
+      <li>CC—Coordinating conjunction</li>
+
+      <li>CD—Cardinal number</li>
+
+      <li>DT—Determiner</li>
+
+      <li>EX—Existential <i>there</i></li>
+
+      <li>FW—Foreign word</li>
+
+      <li>IN</li>
+
+      <li>JJ</li>
+
+      <li>JJR</li>
+
+      <li>JJS</li>
+
+      <li>LS</li>
+
+      <li>MD</li>
+
+      <li>NN</li>
+
+      <li>NNS</li>
+
+      <li>NP</li>
+
+      <li>NPS</li>
+
+      <li>PDT</li>
+
+      <li>POS</li>
+
+      <li>PP</li>
+
+      <li>PP$</li>
+
+      <li>RB</li>
+
+      <li>RBR</li>
+
+      <li>RBS</li>
+
+      <li>RP</li>
+
+      <li>SYM</li>
+
+      <li>TO</li>
+
+      <li>UH</li>
+
+      <li>VB</li>
+
+      <li>VBD</li>
+
+      <li>VBN</li>
+
+      <li>VBN</li>
+
+      <li>VBP</li>
+
+      <li>VBZ</li>
+
+      <li>WDT</li>
+
+      <li>WP</li>
+
+      <li>WP$</li>
+
+      <li>WRB</li>
+    </ul>
+  </conbody>
+</concept>

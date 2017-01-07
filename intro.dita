@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+"topic.dtd">
+<topic id="intro">
+  <title>Introduction</title>
+
+  <body>
+    <p>This manual addresses the linguistic issues that arise in connection
+    with annotating texts by part of speech ("tagging"). Section 2 is an
+    alphabetical list of the parts of speech encoded in the annotation system
+    of the Penn Treebank Project, along with their corresponding abbreviations
+    ("tags") and some information concerning their definition. This section
+    allows you to find an unfamiliar tag by looking up a familiar part of
+    speech. Section 3 recapitulates the information in Section 2, but this
+    time the information is alphabetically ordered by tags. This is the
+    section to consult in order to find out what an unfamiliar tag means.
+    Since the parts of speech are probably familiar to you from high school
+    English, you should have little difficulty in assimilating the tags
+    themselves. However, it is often quite difficult to decide which tag is
+    appropriate in a particular context. The two sections 4 and 5 therefore
+    include examples and guidelines on how to tag problematic cases. If you
+    are uncertain about whether a given tag is correct or not, refer to these
+    sections in order to ensure a consistently annotated text. Section 4
+    discusses parts of speech that are easily confused and gives guidelines on
+    how to tag such cases, while Section 5 contains an alphabetical list of
+    specific problematic words and collocations. Finally, Section 6 discusses
+    some general tagging conventions. One general rule, however, is so
+    important that we state it here. Many texts are not models of good prose,
+    and some contain outright errors and slips of the pen. Do not be tempted
+    to correct a tag to what it would be if the text were correct; rather, it
+    is the incorrect word that should be tagged correctly.</p>
+
+    <note>If you have questions that you do not find covered, be sure to let
+    us know so that we can incorporate a discussion of them into updates of
+    this guide.</note>
+  </body>
+</topic>

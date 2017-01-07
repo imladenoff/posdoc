@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"map.dtd">
+<map>
+  <title>Part-of-Speech Tagging Guidelines for the Penn Treebank Project (3rd
+  Revision)</title>
+
+  <topicmeta>
+    <author>Beatrice Santorini</author>
+  </topicmeta>
+
+  <topicref href="intro.dita#intro"/>
+
+  <topicref href="poslist.dita#poslist"/>
+
+  <topicref href="taglist.dita#taglist"/>
+
+  <topicref href="confusing.dita"/>
+</map>
